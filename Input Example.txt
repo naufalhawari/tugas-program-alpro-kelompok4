@@ -1,0 +1,1034 @@
+### CONTOH MASUKAN (1) ###
+
+Selamat datang di Program Kereta Bandung-Jakarta
+1 : Reservasi
+2 : Cek persentase okupansi gerbong
+3 : Menampilkan semua penumpang terurut berdasarkan usia dari yang paling muda
+4 : Menampilkan semua data bayi pada masing-masing gerbong
+5 : Mencari orang tua bayi
+6 : Mencatat data ke file teks
+0 : Keluar
+Masukkan nomor di atas untuk memilih menu : 1
+ 
+Masukkan banyak tiket yang ingin dibeli (maksimal 10) : 10
+Gerbong yang belum penuh : 
+- Prioritas
+- Eksekutif
+- Ekonomi
+Pilih Gerbong : prioritas
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0501 dzakwan 23
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0502 nabil 27
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0503 reva 26
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0501 adrian 1 
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0506 rafi 25
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0508 sabrina 19
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0509 fajar 24
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0510 ahmad 10
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0511 putra 24
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0512 fauzan 18
+========Gerbong Prioritas========
+Baris 1 : Kosong Kosong Kosong Kosong
+Baris 2 : Kosong Kosong Kosong Kosong
+Baris 3 : Kosong Kosong Kosong Kosong
+Baris 4 : Kosong Kosong Kosong Kosong
+Baris 5 : Kosong Kosong Kosong Kosong
+Baris 6 : Kosong Kosong Kosong Kosong
+Baris 7 : Kosong Kosong Kosong Kosong
+Baris 8 : Kosong Kosong Kosong Kosong
+Baris 9 : Kosong Kosong Kosong Kosong
+Rekomendasi Kursi :
+(1) baris : 1, nomor : a
+(2) baris : 1, nomor : b
+(3) baris : 1, nomor : c
+(4) baris : 1, nomor : d
+(5) baris : 2, nomor : a
+(6) baris : 2, nomor : b
+(7) baris : 2, nomor : c
+(8) baris : 2, nomor : d
+(9) baris : 3, nomor : a
+Ubah kursi? ya | tidak : ya
+Rekomendasi Kursi :
+(1) baris : 3, nomor : b
+(2) baris : 3, nomor : c
+(3) baris : 3, nomor : d
+(4) baris : 4, nomor : a
+(5) baris : 4, nomor : b
+(6) baris : 4, nomor : c
+(7) baris : 4, nomor : d
+(8) baris : 5, nomor : a
+(9) baris : 5, nomor : b
+Ubah kursi? ya | tidak : tidak
+ 
+Gerbong : prioritas
+Banyak Penumpang Dewasa : 8
+Banyak Penumpang Anak-Anak : 1
+Total harga yang harus di bayar:  27
+
+Ketik 1 untuk kembali ke menu awal
+Ketik 0 untuk keluar
+Pilihan anda: 1
+
+Selamat datang di Program Kereta Bandung-Jakarta
+1 : Reservasi
+3 : Menampilkan semua penumpang terurut berdasarkan usia dari yang paling muda
+4 : Menampilkan semua data bayi pada masing-masing gerbong
+5 : Mencari orang tua bayi
+6 : Mencatat data ke file teks
+0 : Keluar
+Masukkan nomor di atas untuk memilih menu : 1
+
+Masukkan banyak tiket yang ingin dibeli (maksimal 10) : 8
+Gerbong yang belum penuh :
+- Prioritas
+- Eksekutif
+- Ekonomi
+Pilih Gerbong : eksekutif
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0513 zahra 26
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0514 andi 9
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0515 annisa 11
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0516 rafi 25
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0513 alif 1
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0518 lintang 22
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0519 setoadji 17
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0516 eren 0
+========Gerbong Eksekutif========
+Baris 1 : Kosong Kosong Kosong Kosong
+Baris 2 : Kosong Kosong Kosong Kosong
+Baris 3 : Kosong Kosong Kosong Kosong
+Baris 4 : Kosong Kosong Kosong Kosong
+Baris 5 : Kosong Kosong Kosong Kosong
+Baris 6 : Kosong Kosong Kosong Kosong
+Baris 7 : Kosong Kosong Kosong Kosong
+Baris 8 : Kosong Kosong Kosong Kosong
+Baris 9 : Kosong Kosong Kosong Kosong
+Baris 10 : Kosong Kosong Kosong Kosong
+Baris 11 : Kosong Kosong Kosong Kosong
+Baris 12 : Kosong Kosong Kosong Kosong
+Rekomendasi Kursi :
+(1) baris : 1, nomor : a
+(2) baris : 1, nomor : b
+(3) baris : 1, nomor : c
+(4) baris : 1, nomor : d
+(5) baris : 2, nomor : a
+(6) baris : 2, nomor : b
+Ubah kursi? ya | tidak : tidak
+ 
+Gerbong : eksekutif
+Banyak Penumpang Dewasa : 3
+Banyak Penumpang Anak-Anak : 3
+Total harga yang harus di bayar:  12
+
+Ketik 1 untuk kembali ke menu awal
+Ketik 0 untuk keluar
+Pilihan anda: 1
+
+Selamat datang di Program Kereta Bandung-Jakarta
+1 : Reservasi
+2 : Cek persentase okupansi gerbong
+3 : Menampilkan semua penumpang terurut berdasarkan usia dari yang paling muda
+4 : Menampilkan semua data bayi pada masing-masing gerbong
+5 : Mencari orang tua bayi
+6 : Mencatat data ke file teks
+0 : Keluar
+Masukkan nomor di atas untuk memilih menu : 1
+ 
+Masukkan banyak tiket yang ingin dibeli (maksimal 10) : 6
+Gerbong yang belum penuh : 
+- Prioritas
+- Eksekutif
+- Ekonomi
+Pilih Gerbong : ekonomi
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0525 yusuf 22
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0526 rizky 22
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0527 dandy 9
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0528 ardhani 25
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0529 dhiau 11
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0528 nindya 2
+========Gerbong Ekonomi========
+Baris 1 : Kosong Kosong Kosong Kosong
+Baris 2 : Kosong Kosong Kosong Kosong
+Baris 3 : Kosong Kosong Kosong Kosong
+Baris 4 : Kosong Kosong Kosong Kosong
+Baris 5 : Kosong Kosong Kosong Kosong
+Baris 6 : Kosong Kosong Kosong Kosong
+Baris 7 : Kosong Kosong Kosong Kosong
+Baris 8 : Kosong Kosong Kosong Kosong
+Baris 9 : Kosong Kosong Kosong Kosong
+Baris 10 : Kosong Kosong Kosong Kosong
+Baris 11 : Kosong Kosong Kosong Kosong
+Baris 12 : Kosong Kosong Kosong Kosong
+Baris 13 : Kosong Kosong Kosong Kosong
+Baris 14 : Kosong Kosong Kosong Kosong
+Rekomendasi Kursi :
+(1) baris : 1, nomor : a
+(2) baris : 1, nomor : b
+(3) baris : 1, nomor : c
+(4) baris : 1, nomor : d
+(5) baris : 2, nomor : a
+Ubah kursi? ya | tidak : ya   
+Rekomendasi Kursi :
+(1) baris : 2, nomor : b
+(2) baris : 2, nomor : c
+(3) baris : 2, nomor : d
+(4) baris : 3, nomor : a
+(5) baris : 3, nomor : b
+Ubah kursi? ya | tidak : tidak
+ 
+Gerbong : ekonomi
+Banyak Penumpang Dewasa : 3
+Banyak Penumpang Anak-Anak : 2
+Total harga yang harus di bayar:  5
+
+Ketik 1 untuk kembali ke menu awal
+Ketik 0 untuk keluar
+Pilihan anda: 1
+
+Selamat datang di Program Kereta Bandung-Jakarta
+1 : Reservasi
+2 : Cek persentase okupansi gerbong
+3 : Menampilkan semua penumpang terurut berdasarkan usia dari yang paling muda
+4 : Menampilkan semua data bayi pada masing-masing gerbong
+5 : Mencari orang tua bayi
+6 : Mencatat data ke file teks
+0 : Keluar
+Masukkan nomor di atas untuk memilih menu : 2
+ 
+Persentase okupansi gerbong prioritas : 25.00%
+Persentase okupansi gerbong eksekutif : 12.50%
+Persentase okupansi gerbong ekonomi : 8.93%
+
+Ketik 1 untuk kembali ke menu awal
+Ketik 0 untuk keluar
+Pilihan anda: 1
+
+Selamat datang di Program Kereta Bandung-Jakarta
+1 : Reservasi
+2 : Cek persentase okupansi gerbong
+3 : Menampilkan semua penumpang terurut berdasarkan usia dari yang paling muda
+4 : Menampilkan semua data bayi pada masing-masing gerbong
+5 : Mencari orang tua bayi
+6 : Mencatat data ke file teks
+0 : Keluar
+Masukkan nomor di atas untuk memilih menu : 3
+ 
+========Data Bayi========
+
+Penumpang bayi ke-1
+Kode Tiket :  2
+Kelas :  eksekutif
+Nomor Identitas Orang Tua:  0516
+Nama :  eren
+Usia :  0
+
+Penumpang bayi ke-2
+Kode Tiket :  2
+Kelas :  eksekutif
+Nomor Identitas Orang Tua:  0513
+Nama :  alif
+Usia :  1
+
+Penumpang bayi ke-3
+Kode Tiket :  1
+Kelas :  prioritas
+Nomor Identitas Orang Tua:  0501
+Nama :  adrian
+Usia :  1
+
+Penumpang bayi ke-4
+Kode Tiket :  3
+Kelas :  ekonomi
+Nomor Identitas Orang Tua:  0528
+Nama :  nindya
+Usia :  2
+
+
+========Data Penumpang Anak-Anak atau Dewasa========
+
+Penumpang anak-anak atau dewasa ke-1
+Kode Tiket :  2
+Kelas :  eksekutif
+Nomor Identitas :  0514
+Nama :  andi
+Usia :  9
+Duduk di kursi baris ke-2
+Duduk di kursi nomor a
+
+Penumpang anak-anak atau dewasa ke-2
+Kode Tiket :  3
+Kelas :  ekonomi
+Nomor Identitas :  0527
+Nama :  dandy
+Usia :  9
+Duduk di kursi baris ke-2
+Duduk di kursi nomor d
+
+Penumpang anak-anak atau dewasa ke-3
+Kode Tiket :  1
+Kelas :  prioritas
+Nomor Identitas :  0510
+Nama :  ahmad
+Usia :  10
+Duduk di kursi baris ke-3
+Duduk di kursi nomor d
+
+Penumpang anak-anak atau dewasa ke-4
+Kode Tiket :  2
+Kelas :  eksekutif
+Nomor Identitas :  0515
+Nama :  annisa
+Usia :  11
+Duduk di kursi baris ke-1
+Duduk di kursi nomor d
+
+Penumpang anak-anak atau dewasa ke-5
+Kode Tiket :  3
+Kelas :  ekonomi
+Nomor Identitas :  0529
+Nama :  dhiau
+Usia :  11
+Duduk di kursi baris ke-2
+Duduk di kursi nomor b
+
+Penumpang anak-anak atau dewasa ke-6
+Kode Tiket :  2
+Kelas :  eksekutif
+Nomor Identitas :  0519
+Nama :  setoadji
+Usia :  17
+Duduk di kursi baris ke-1
+Duduk di kursi nomor a
+
+Penumpang anak-anak atau dewasa ke-7
+Kode Tiket :  1
+Kelas :  prioritas
+Nomor Identitas :  0512
+Nama :  fauzan
+Usia :  18
+Duduk di kursi baris ke-3
+Duduk di kursi nomor b
+
+Penumpang anak-anak atau dewasa ke-8
+Kode Tiket :  1
+Kelas :  prioritas
+Nomor Identitas :  0508
+Nama :  sabrina
+Usia :  19
+Duduk di kursi baris ke-4
+Duduk di kursi nomor b
+
+Penumpang anak-anak atau dewasa ke-9
+Kode Tiket :  2
+Kelas :  eksekutif
+Nomor Identitas :  0518
+Nama :  lintang
+Usia :  22
+Duduk di kursi baris ke-1
+Duduk di kursi nomor b
+
+Penumpang anak-anak atau dewasa ke-10
+Kode Tiket :  3
+Kelas :  ekonomi
+Nomor Identitas :  0525
+Nama :  yusuf
+Usia :  22
+Duduk di kursi baris ke-3
+Duduk di kursi nomor b
+
+Penumpang anak-anak atau dewasa ke-11
+Kode Tiket :  3
+Kelas :  ekonomi
+Nomor Identitas :  0526
+Nama :  rizky
+Usia :  22
+Duduk di kursi baris ke-3
+Duduk di kursi nomor a
+
+Penumpang anak-anak atau dewasa ke-12
+Kode Tiket :  1
+Kelas :  prioritas
+Nomor Identitas :  0501
+Nama :  dzakwan
+Usia :  23
+Duduk di kursi baris ke-5
+Duduk di kursi nomor b
+
+Penumpang anak-anak atau dewasa ke-13
+Kode Tiket :  1
+Kelas :  prioritas
+Nomor Identitas :  0509
+Nama :  fajar
+Usia :  24
+Duduk di kursi baris ke-4
+Duduk di kursi nomor a
+
+Penumpang anak-anak atau dewasa ke-14
+Kode Tiket :  1
+Kelas :  prioritas
+Nomor Identitas :  0511
+Nama :  putra
+Usia :  24
+Duduk di kursi baris ke-3
+Duduk di kursi nomor c
+
+Penumpang anak-anak atau dewasa ke-15
+Kode Tiket :  2
+Kelas :  eksekutif
+Nomor Identitas :  0516
+Nama :  rafi
+Usia :  25
+Duduk di kursi baris ke-1
+Duduk di kursi nomor c
+
+Penumpang anak-anak atau dewasa ke-16
+Kode Tiket :  1
+Kelas :  prioritas
+Nomor Identitas :  0506
+Nama :  rafi
+Usia :  25
+Duduk di kursi baris ke-4
+Duduk di kursi nomor c
+
+Penumpang anak-anak atau dewasa ke-17
+Kode Tiket :  3
+Kelas :  ekonomi
+Nomor Identitas :  0528
+Nama :  ardhani
+Usia :  25
+Duduk di kursi baris ke-2
+Duduk di kursi nomor c
+
+Penumpang anak-anak atau dewasa ke-18
+Kode Tiket :  2
+Kelas :  eksekutif
+Nomor Identitas :  0513
+Nama :  zahra
+Usia :  26
+Duduk di kursi baris ke-2
+Duduk di kursi nomor b
+
+Penumpang anak-anak atau dewasa ke-19
+Kode Tiket :  1
+Kelas :  prioritas
+Nomor Identitas :  0503
+Nama :  reva
+Usia :  26
+Duduk di kursi baris ke-4
+Duduk di kursi nomor d
+
+Penumpang anak-anak atau dewasa ke-20
+Kode Tiket :  1
+Kelas :  prioritas
+Nomor Identitas :  0502
+Nama :  nabil
+Usia :  27
+Duduk di kursi baris ke-5
+Duduk di kursi nomor a
+
+
+Ketik 1 untuk kembali ke menu awal
+Ketik 0 untuk keluar
+Pilihan anda: 1
+
+Selamat datang di Program Kereta Bandung-Jakarta
+1 : Reservasi
+2 : Cek persentase okupansi gerbong
+3 : Menampilkan semua penumpang terurut berdasarkan usia dari yang paling muda
+4 : Menampilkan semua data bayi pada masing-masing gerbong
+5 : Mencari orang tua bayi
+6 : Mencatat data ke file teks
+0 : Keluar
+Masukkan nomor di atas untuk memilih menu : 4
+ 
+========Penumpang Bayi di Gerbong Prioritas========
+
+Penumpang bayi ke-1 :
+Kode Tiket :  1
+Kelas :  prioritas
+Nomor Identitas Orang Tua:  0501
+Nama :  adrian
+Usia :  1
+Duduk di kursi baris ke- 5
+Duduk di kuris nomor b
+
+Penumpang bayi ke-2 :
+Kode Tiket :  2
+Kelas :  eksekutif
+Nomor Identitas Orang Tua:  0513
+Nama :  alif
+Usia :  1
+Duduk di kursi baris ke- 2
+Duduk di kuris nomor b
+
+Penumpang bayi ke-3 :
+Kode Tiket :  2
+Kelas :  eksekutif
+Nomor Identitas Orang Tua:  0516
+Nama :  eren
+Usia :  0
+Duduk di kursi baris ke- 1
+Duduk di kuris nomor c
+
+Penumpang bayi ke-4 :
+Kode Tiket :  3
+Kelas :  ekonomi
+Nomor Identitas Orang Tua:  0528
+Nama :  nindya
+Usia :  2
+Duduk di kursi baris ke- 2
+Duduk di kuris nomor c
+
+
+Ketik 1 untuk kembali ke menu awal
+Ketik 0 untuk keluar
+Pilihan anda: 1
+
+Selamat datang di Program Kereta Bandung-Jakarta
+1 : Reservasi
+2 : Cek persentase okupansi gerbong
+3 : Menampilkan semua penumpang terurut berdasarkan usia dari yang paling muda
+4 : Menampilkan semua data bayi pada masing-masing gerbong
+5 : Mencari orang tua bayi
+6 : Mencatat data ke file teks
+0 : Keluar
+Masukkan nomor di atas untuk memilih menu : 5
+ 
+Masukkan nama bayi : eren
+Masukkan kode tiket : 2
+Nomor Identitas Orang Tua Bayi : 0516
+Nama Orang Tua Bayi : rafi
+
+Ketik 1 untuk kembali ke menu awal
+Ketik 0 untuk keluar
+Pilihan anda: 1
+
+Selamat datang di Program Kereta Bandung-Jakarta
+1 : Reservasi
+2 : Cek persentase okupansi gerbong
+3 : Menampilkan semua penumpang terurut berdasarkan usia dari yang paling muda
+4 : Menampilkan semua data bayi pada masing-masing gerbong
+5 : Mencari orang tua bayi
+6 : Mencatat data ke file teks
+0 : Keluar
+Masukkan nomor di atas untuk memilih menu : 6
+ 
+
+Ketik 1 untuk kembali ke menu awal
+Ketik 0 untuk keluar
+Pilihan anda: 1
+
+Selamat datang di Program Kereta Bandung-Jakarta
+1 : Reservasi
+2 : Cek persentase okupansi gerbong
+3 : Menampilkan semua penumpang terurut berdasarkan usia dari yang paling muda
+4 : Menampilkan semua data bayi pada masing-masing gerbong
+5 : Mencari orang tua bayi
+6 : Mencatat data ke file teks
+0 : Keluar
+Masukkan nomor di atas untuk memilih menu : 0
+ 
+Terima kasih
+
+### CONTOH MASUKAN (2) ###
+
+Selamat datang di Program Kereta Bandung-Jakarta
+1 : Reservasi
+3 : Menampilkan semua penumpang terurut berdasarkan usia dari yang paling muda
+4 : Menampilkan semua data bayi pada masing-masing gerbong
+5 : Mencari orang tua bayi
+6 : Mencatat data ke file teks
+0 : Keluar
+Masukkan nomor di atas untuk memilih menu : 1
+
+Masukkan banyak tiket yang ingin dibeli (maksimal 10) : 10
+Gerbong yang belum penuh :
+- Prioritas
+- Eksekutif
+- Ekonomi
+Pilih Gerbong : eksekutif
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0201 dimas 22
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0202 maria 25
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0203 putra 23
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0204 fakhri 26
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0205 rafly 22
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0206 natalia 21
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0207 arminta 21
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0208 firyal 26
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0209 prayoga 11
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0210 ahmad 8
+========Gerbong Eksekutif========
+Baris 1 : Kosong Kosong Kosong Kosong
+Baris 2 : Kosong Kosong Kosong Kosong
+Baris 3 : Kosong Kosong Kosong Kosong
+Baris 4 : Kosong Kosong Kosong Kosong
+Baris 5 : Kosong Kosong Kosong Kosong
+Baris 6 : Kosong Kosong Kosong Kosong
+Baris 7 : Kosong Kosong Kosong Kosong
+Baris 8 : Kosong Kosong Kosong Kosong
+Baris 9 : Kosong Kosong Kosong Kosong
+Baris 10 : Kosong Kosong Kosong Kosong
+Baris 11 : Kosong Kosong Kosong Kosong
+Baris 12 : Kosong Kosong Kosong Kosong
+Rekomendasi Kursi :
+(1) baris : 1, nomor : a
+(2) baris : 1, nomor : b
+(3) baris : 1, nomor : c
+(4) baris : 1, nomor : d
+(5) baris : 2, nomor : a
+(6) baris : 2, nomor : b
+(7) baris : 2, nomor : c
+(8) baris : 2, nomor : d
+(9) baris : 3, nomor : a
+(10) baris : 3, nomor : b
+Ubah kursi? ya | tidak : ya
+Rekomendasi Kursi :
+(1) baris : 3, nomor : c
+(2) baris : 3, nomor : d
+(3) baris : 4, nomor : a
+(4) baris : 4, nomor : b
+(5) baris : 4, nomor : c
+(6) baris : 4, nomor : d
+(7) baris : 5, nomor : a
+(8) baris : 5, nomor : b
+(9) baris : 5, nomor : c
+(10) baris : 5, nomor : d
+Ubah kursi? ya | tidak : tidak
+ 
+Gerbong : eksekutif
+Banyak Penumpang Dewasa : 8
+Banyak Penumpang Anak-Anak : 2
+Total harga yang harus di bayar:  20
+
+Ketik 1 untuk kembali ke menu awal
+Ketik 0 untuk keluar
+Pilihan anda: 1
+
+Selamat datang di Program Kereta Bandung-Jakarta
+1 : Reservasi
+2 : Cek persentase okupansi gerbong
+3 : Menampilkan semua penumpang terurut berdasarkan usia dari yang paling muda
+4 : Menampilkan semua data bayi pada masing-masing gerbong
+5 : Mencari orang tua bayi
+6 : Mencatat data ke file teks
+0 : Keluar
+Masukkan nomor di atas untuk memilih menu : 1
+ 
+Masukkan banyak tiket yang ingin dibeli (maksimal 10) : 3
+Gerbong yang belum penuh : 
+- Prioritas
+- Eksekutif
+- Ekonomi
+Pilih Gerbong : ekonomi
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0217 dzaky 15
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0218 muslim 14
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0219 hanif 17
+========Gerbong Ekonomi========
+Baris 1 : Kosong Kosong Kosong Kosong
+Baris 2 : Kosong Kosong Kosong Kosong
+Baris 3 : Kosong Kosong Kosong Kosong
+Baris 4 : Kosong Kosong Kosong Kosong
+Baris 5 : Kosong Kosong Kosong Kosong
+Baris 6 : Kosong Kosong Kosong Kosong
+Baris 7 : Kosong Kosong Kosong Kosong
+Baris 8 : Kosong Kosong Kosong Kosong
+Baris 9 : Kosong Kosong Kosong Kosong
+Baris 10 : Kosong Kosong Kosong Kosong
+Baris 11 : Kosong Kosong Kosong Kosong
+Baris 12 : Kosong Kosong Kosong Kosong
+Baris 13 : Kosong Kosong Kosong Kosong
+Baris 14 : Kosong Kosong Kosong Kosong
+Rekomendasi Kursi :
+(1) baris : 1, nomor : a
+(2) baris : 1, nomor : b
+(3) baris : 1, nomor : c
+Ubah kursi? ya | tidak : ya
+Rekomendasi Kursi :
+(1) baris : 1, nomor : d
+(2) baris : 2, nomor : a
+(3) baris : 2, nomor : b
+Ubah kursi? ya | tidak : ya
+Rekomendasi Kursi :
+(1) baris : 2, nomor : c
+(2) baris : 2, nomor : d
+(3) baris : 3, nomor : a
+Ubah kursi? ya | tidak : ya
+Rekomendasi Kursi :
+(1) baris : 3, nomor : b
+(2) baris : 3, nomor : c
+(3) baris : 3, nomor : d
+Ubah kursi? ya | tidak : tidak
+ 
+Gerbong : ekonomi
+Banyak Penumpang Dewasa : 0
+Banyak Penumpang Anak-Anak : 3
+Total harga yang harus di bayar:  3
+
+Ketik 1 untuk kembali ke menu awal
+Ketik 0 untuk keluar
+Pilihan anda: 1
+
+Selamat datang di Program Kereta Bandung-Jakarta
+1 : Reservasi
+2 : Cek persentase okupansi gerbong
+3 : Menampilkan semua penumpang terurut berdasarkan usia dari yang paling muda
+4 : Menampilkan semua data bayi pada masing-masing gerbong
+5 : Mencari orang tua bayi
+6 : Mencatat data ke file teks
+0 : Keluar
+Masukkan nomor di atas untuk memilih menu : 1
+ 
+Masukkan banyak tiket yang ingin dibeli (maksimal 10) : 9   
+Gerbong yang belum penuh : 
+- Prioritas
+- Eksekutif
+- Ekonomi
+Pilih Gerbong : prioritas
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0220 safina 24
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0221 muhammad 21
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0222 bagus 29
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0223 anandita 12
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0224 ryvan 17
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0225 lutfiah 15
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0229 daffa 8
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0220 bayu 0
+Masukkan nomor identitas (nomor identitas orang tua bagi penumpang berusia kurang dari atau sama dengan dua tahun), nama, dan usia anda : 0222 aura 1
+========Gerbong Prioritas========
+Baris 1 : Kosong Kosong Kosong Kosong
+Baris 2 : Kosong Kosong Kosong Kosong
+Baris 3 : Kosong Kosong Kosong Kosong
+Baris 4 : Kosong Kosong Kosong Kosong
+Baris 5 : Kosong Kosong Kosong Kosong
+Baris 6 : Kosong Kosong Kosong Kosong
+Baris 7 : Kosong Kosong Kosong Kosong
+Baris 8 : Kosong Kosong Kosong Kosong
+Baris 9 : Kosong Kosong Kosong Kosong
+Rekomendasi Kursi :
+(1) baris : 1, nomor : a
+(2) baris : 1, nomor : b
+(3) baris : 1, nomor : c
+(4) baris : 1, nomor : d
+(5) baris : 2, nomor : a
+(6) baris : 2, nomor : b
+(7) baris : 2, nomor : c
+Ubah kursi? ya | tidak : tidak
+ 
+Gerbong : prioritas
+Banyak Penumpang Dewasa : 3
+Banyak Penumpang Anak-Anak : 4
+Total harga yang harus di bayar:  21
+
+Ketik 1 untuk kembali ke menu awal
+Ketik 0 untuk keluar
+Pilihan anda: 1
+
+Selamat datang di Program Kereta Bandung-Jakarta
+1 : Reservasi
+2 : Cek persentase okupansi gerbong
+3 : Menampilkan semua penumpang terurut berdasarkan usia dari yang paling muda
+4 : Menampilkan semua data bayi pada masing-masing gerbong
+5 : Mencari orang tua bayi
+6 : Mencatat data ke file teks
+0 : Keluar
+Masukkan nomor di atas untuk memilih menu : 2
+ 
+Persentase okupansi gerbong prioritas : 19.44%
+Persentase okupansi gerbong eksekutif : 20.83%
+Persentase okupansi gerbong ekonomi : 5.36%
+
+Ketik 1 untuk kembali ke menu awal
+Ketik 0 untuk keluar
+Pilihan anda: 1
+
+Selamat datang di Program Kereta Bandung-Jakarta
+1 : Reservasi
+2 : Cek persentase okupansi gerbong
+3 : Menampilkan semua penumpang terurut berdasarkan usia dari yang paling muda
+4 : Menampilkan semua data bayi pada masing-masing gerbong
+5 : Mencari orang tua bayi
+6 : Mencatat data ke file teks
+0 : Keluar
+Masukkan nomor di atas untuk memilih menu : 3
+ 
+========Data Bayi========
+
+Penumpang bayi ke-1
+Kode Tiket :  3
+Kelas :  prioritas
+Nomor Identitas Orang Tua:  0220
+Nama :  bayu
+Usia :  0
+
+Penumpang bayi ke-2
+Kode Tiket :  3
+Kelas :  prioritas
+Nomor Identitas Orang Tua:  0222
+Nama :  aura
+Usia :  1
+
+
+========Data Penumpang Anak-Anak atau Dewasa========
+
+Penumpang anak-anak atau dewasa ke-1
+Kode Tiket :  1
+Kelas :  eksekutif
+Nomor Identitas :  0210
+Nama :  ahmad
+Usia :  8
+Duduk di kursi baris ke-3
+Duduk di kursi nomor c
+
+Penumpang anak-anak atau dewasa ke-2
+Kode Tiket :  3
+Kelas :  prioritas
+Nomor Identitas :  0229
+Nama :  daffa
+Usia :  8
+Duduk di kursi baris ke-1
+Duduk di kursi nomor a
+
+Penumpang anak-anak atau dewasa ke-3
+Kode Tiket :  1
+Kelas :  eksekutif
+Nomor Identitas :  0209
+Nama :  prayoga
+Usia :  11
+Duduk di kursi baris ke-3
+Duduk di kursi nomor d
+
+Penumpang anak-anak atau dewasa ke-4
+Kode Tiket :  3
+Kelas :  prioritas
+Nomor Identitas :  0223
+Nama :  anandita
+Usia :  12
+Duduk di kursi baris ke-1
+Duduk di kursi nomor d
+
+Penumpang anak-anak atau dewasa ke-5
+Kode Tiket :  2
+Kelas :  ekonomi
+Nomor Identitas :  0218
+Nama :  muslim
+Usia :  14
+Duduk di kursi baris ke-3
+Duduk di kursi nomor c
+
+Penumpang anak-anak atau dewasa ke-6
+Kode Tiket :  2
+Kelas :  ekonomi
+Nomor Identitas :  0217
+Nama :  dzaky
+Usia :  15
+Duduk di kursi baris ke-3
+Duduk di kursi nomor d
+
+Penumpang anak-anak atau dewasa ke-7
+Kode Tiket :  3
+Kelas :  prioritas
+Nomor Identitas :  0225
+Nama :  lutfiah
+Usia :  15
+Duduk di kursi baris ke-1
+Duduk di kursi nomor b
+
+Penumpang anak-anak atau dewasa ke-8
+Kode Tiket :  2
+Kelas :  ekonomi
+Nomor Identitas :  0219
+Nama :  hanif
+Usia :  17
+Duduk di kursi baris ke-3
+Duduk di kursi nomor b
+
+Penumpang anak-anak atau dewasa ke-9
+Kode Tiket :  3
+Kelas :  prioritas
+Nomor Identitas :  0224
+Nama :  ryvan
+Usia :  17
+Duduk di kursi baris ke-1
+Duduk di kursi nomor c
+
+Penumpang anak-anak atau dewasa ke-10
+Kode Tiket :  1
+Kelas :  eksekutif
+Nomor Identitas :  0206
+Nama :  natalia
+Usia :  21
+Duduk di kursi baris ke-4
+Duduk di kursi nomor c
+
+Penumpang anak-anak atau dewasa ke-11
+Kode Tiket :  3
+Kelas :  prioritas
+Nomor Identitas :  0221
+Nama :  muhammad
+Usia :  21
+Duduk di kursi baris ke-2
+Duduk di kursi nomor b
+
+Penumpang anak-anak atau dewasa ke-12
+Kode Tiket :  1
+Kelas :  eksekutif
+Nomor Identitas :  0207
+Nama :  arminta
+Usia :  21
+Duduk di kursi baris ke-4
+Duduk di kursi nomor b
+
+Penumpang anak-anak atau dewasa ke-13
+Kode Tiket :  1
+Kelas :  eksekutif
+Nomor Identitas :  0201
+Nama :  dimas
+Usia :  22
+Duduk di kursi baris ke-5
+Duduk di kursi nomor d
+
+Penumpang anak-anak atau dewasa ke-14
+Kode Tiket :  1
+Kelas :  eksekutif
+Nomor Identitas :  0205
+Nama :  rafly
+Usia :  22
+Duduk di kursi baris ke-4
+Duduk di kursi nomor d
+
+Penumpang anak-anak atau dewasa ke-15
+Kode Tiket :  1
+Kelas :  eksekutif
+Nomor Identitas :  0203
+Nama :  putra
+Usia :  23
+Duduk di kursi baris ke-5
+Duduk di kursi nomor b
+
+Penumpang anak-anak atau dewasa ke-16
+Kode Tiket :  3
+Kelas :  prioritas
+Nomor Identitas :  0220
+Nama :  safina
+Usia :  24
+Duduk di kursi baris ke-2
+Duduk di kursi nomor c
+
+Penumpang anak-anak atau dewasa ke-17
+Kode Tiket :  1
+Kelas :  eksekutif
+Nomor Identitas :  0202
+Nama :  maria
+Usia :  25
+Duduk di kursi baris ke-5
+Duduk di kursi nomor c
+
+Penumpang anak-anak atau dewasa ke-18
+Kode Tiket :  1
+Kelas :  eksekutif
+Nomor Identitas :  0208
+Nama :  firyal
+Usia :  26
+Duduk di kursi baris ke-4
+Duduk di kursi nomor a
+
+Penumpang anak-anak atau dewasa ke-19
+Kode Tiket :  1
+Kelas :  eksekutif
+Nomor Identitas :  0204
+Nama :  fakhri
+Usia :  26
+Duduk di kursi baris ke-5
+Duduk di kursi nomor a
+
+Penumpang anak-anak atau dewasa ke-20
+Kode Tiket :  3
+Kelas :  prioritas
+Nomor Identitas :  0222
+Nama :  bagus
+Usia :  29
+Duduk di kursi baris ke-2
+Duduk di kursi nomor a
+
+
+Ketik 1 untuk kembali ke menu awal
+Ketik 0 untuk keluar
+Pilihan anda: 1
+
+Selamat datang di Program Kereta Bandung-Jakarta
+1 : Reservasi
+2 : Cek persentase okupansi gerbong
+3 : Menampilkan semua penumpang terurut berdasarkan usia dari yang paling muda
+4 : Menampilkan semua data bayi pada masing-masing gerbong
+5 : Mencari orang tua bayi
+6 : Mencatat data ke file teks
+0 : Keluar
+Masukkan nomor di atas untuk memilih menu : 4
+ 
+========Penumpang Bayi di Gerbong Prioritas========
+
+Penumpang bayi ke-1 :
+Kode Tiket :  3
+Kelas :  prioritas
+Nomor Identitas Orang Tua:  0220
+Nama :  bayu
+Usia :  0
+Duduk di kursi baris ke- 2
+Duduk di kuris nomor c
+
+Penumpang bayi ke-2 :
+Kode Tiket :  3
+Kelas :  prioritas
+Nomor Identitas Orang Tua:  0222
+Nama :  aura
+Usia :  1
+Duduk di kursi baris ke- 2
+Duduk di kuris nomor a
+
+
+Ketik 1 untuk kembali ke menu awal
+Ketik 0 untuk keluar
+Pilihan anda: 1
+
+Selamat datang di Program Kereta Bandung-Jakarta
+1 : Reservasi
+2 : Cek persentase okupansi gerbong
+3 : Menampilkan semua penumpang terurut berdasarkan usia dari yang paling muda
+4 : Menampilkan semua data bayi pada masing-masing gerbong
+5 : Mencari orang tua bayi
+6 : Mencatat data ke file teks
+0 : Keluar
+Masukkan nomor di atas untuk memilih menu : 5
+ 
+Masukkan nama bayi : bayu
+Masukkan kode tiket : 3
+Nomor Identitas Orang Tua Bayi : 0220
+Nama Orang Tua Bayi : safina
+
+Ketik 1 untuk kembali ke menu awal
+Ketik 0 untuk keluar
+Pilihan anda: 1
+
+Selamat datang di Program Kereta Bandung-Jakarta
+1 : Reservasi
+2 : Cek persentase okupansi gerbong
+3 : Menampilkan semua penumpang terurut berdasarkan usia dari yang paling muda
+4 : Menampilkan semua data bayi pada masing-masing gerbong
+5 : Mencari orang tua bayi
+6 : Mencatat data ke file teks
+0 : Keluar
+Masukkan nomor di atas untuk memilih menu : 6
+ 
+
+Ketik 1 untuk kembali ke menu awal
+Ketik 0 untuk keluar
+Pilihan anda: 1
+
+Selamat datang di Program Kereta Bandung-Jakarta
+1 : Reservasi
+2 : Cek persentase okupansi gerbong
+3 : Menampilkan semua penumpang terurut berdasarkan usia dari yang paling muda
+4 : Menampilkan semua data bayi pada masing-masing gerbong
+5 : Mencari orang tua bayi
+6 : Mencatat data ke file teks
+0 : Keluar
+Masukkan nomor di atas untuk memilih menu : 0
+ 
+Terima kasih

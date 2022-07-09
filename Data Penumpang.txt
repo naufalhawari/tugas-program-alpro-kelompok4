@@ -1,0 +1,216 @@
+Belum ada penumpang bayi
+
+========Data Penumpang Anak-Anak atau Dewasa========
+
+Penumpang Anak-anak atau Dewasa ke-1
+Kode Tiket : 1
+Kelas : prioritas
+Nomor Identitas : 5
+Nama : e
+Usia : 12
+Baris Kursi : 1
+Nomor Kursi : c
+
+Penumpang Anak-anak atau Dewasa ke-2
+Kode Tiket : 1
+Kelas : prioritas
+Nomor Identitas : 6
+Nama : f
+Usia : 13
+Baris Kursi : 1
+Nomor Kursi : b
+
+Penumpang Anak-anak atau Dewasa ke-3
+Kode Tiket : 1
+Kelas : prioritas
+Nomor Identitas : 7
+Nama : g
+Usia : 14
+Baris Kursi : 1
+Nomor Kursi : a
+
+Penumpang Anak-anak atau Dewasa ke-4
+Kode Tiket : 1
+Kelas : prioritas
+Nomor Identitas : 1
+Nama : a
+Usia : 30
+Baris Kursi : 2
+Nomor Kursi : c
+
+Penumpang Anak-anak atau Dewasa ke-5
+Kode Tiket : 1
+Kelas : prioritas
+Nomor Identitas : 2
+Nama : b
+Usia : 31
+Baris Kursi : 2
+Nomor Kursi : b
+
+Penumpang Anak-anak atau Dewasa ke-6
+Kode Tiket : 1
+Kelas : prioritas
+Nomor Identitas : 3
+Nama : c
+Usia : 32
+Baris Kursi : 2
+Nomor Kursi : a
+
+Penumpang Anak-anak atau Dewasa ke-7
+Kode Tiket : 1
+Kelas : prioritas
+Nomor Identitas : 4
+Nama : d
+Usia : 33
+Baris Kursi : 1
+Nomor Kursi : d
+
+ke-6
+Kode Tiket : 2
+Kelas : ekonomi
+Nomor Identitas : 0217
+Nama : dzaky
+Usia : 15
+Baris Kursi : 3
+Nomor Kursi : d
+
+Penumpang Anak-anak atau Dewasa ke-7
+Kode Tiket : 3
+Kelas : prioritas
+Nomor Identitas : 0225
+Nama : lutfiah
+Usia : 15
+Baris Kursi : 1
+Nomor Kursi : b
+
+Penumpang Anak-anak atau Dewasa ke-8
+Kode Tiket : 2
+Kelas : ekonomi
+Nomor Identitas : 0219
+Nama : hanif
+Usia : 17
+Baris Kursi : 3
+Nomor Kursi : b
+
+Penumpang Anak-anak atau Dewasa ke-9
+Kode Tiket : 3
+Kelas : prioritas
+Nomor Identitas : 0224
+Nama : ryvan
+Usia : 17
+Baris Kursi : 1
+Nomor Kursi : c
+
+Penumpang Anak-anak atau Dewasa ke-10
+Kode Tiket : 1
+Kelas : eksekutif
+Nomor Identitas : 0206
+Nama : natalia
+Usia : 21
+Baris Kursi : 4
+Nomor Kursi : c
+
+Penumpang Anak-anak atau Dewasa ke-11
+Kode Tiket : 3
+Kelas : prioritas
+Nomor Identitas : 0221
+Nama : muhammad
+Usia : 21
+Baris Kursi : 2
+Nomor Kursi : b
+
+Penumpang Anak-anak atau Dewasa ke-12
+Kode Tiket : 1
+Kelas : eksekutif
+Nomor Identitas : 0207
+Nama : arminta
+Usia : 21
+Baris Kursi : 4
+Nomor Kursi : b
+
+Penumpang Anak-anak atau Dewasa ke-13
+Kode Tiket : 1
+Kelas : eksekutif
+Nomor Identitas : 0201
+Nama : dimas
+Usia : 22
+Baris Kursi : 5
+Nomor Kursi : d
+
+Penumpang Anak-anak atau Dewasa ke-14
+Kode Tiket : 1
+Kelas : eksekutif
+Nomor Identitas : 0205
+Nama : rafly
+Usia : 22
+Baris Kursi : 4
+Nomor Kursi : d
+
+Penumpang Anak-anak atau Dewasa ke-15
+Kode Tiket : 1
+Kelas : eksekutif
+Nomor Identitas : 0203
+Nama : putra
+Usia : 23
+Baris Kursi : 5
+Nomor Kursi : b
+
+Penumpang Anak-anak atau Dewasa ke-16
+Kode Tiket : 3
+Kelas : prioritas
+Nomor Identitas : 0220
+Nama : safina
+Usia : 24
+Baris Kursi : 2
+Nomor Kursi : c
+
+Penumpang Anak-anak atau Dewasa ke-17
+Kode Tiket : 1
+Kelas : eksekutif
+Nomor Identitas : 0202
+Nama : maria
+Usia : 25
+Baris Kursi : 5
+Nomor Kursi : c
+
+Penumpang Anak-anak atau Dewasa ke-18
+Kode Tiket : 1
+Kelas : eksekutif
+Nomor Identitas : 0208
+Nama : firyal
+Usia : 26
+Baris Kursi : 4
+Nomor Kursi : a
+
+Penumpang Anak-anak atau Dewasa ke-19
+Kode Tiket : 1
+Kelas : eksekutif
+Nomor Identitas : 0204
+Nama : fakhri
+Usia : 26
+Baris Kursi : 5
+Nomor Kursi : a
+
+Penumpang Anak-anak atau Dewasa ke-20
+Kode Tiket : 3
+Kelas : prioritas
+Nomor Identitas : 0222
+Nama : bagus
+Usia : 29
+Baris Kursi : 2
+Nomor Kursi : a
+
+ma : reva
+Usia : 26
+Baris Kursi : 4
+Nomor Kursi : d
+
+Penumpang Anak-anak atau Dewasa ke-20
+Kode Tiket : 1
+Kelas : prioritas
+Nomor Identitas : 0502
+Nama : nabil
+Usia : 27
+Baris Kursi : 5
+Nomor Kursi : a
+
